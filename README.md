@@ -5,7 +5,7 @@ According to the paper : Sketch-based Querying of Distributed Sliding-Window Dat
 
 
 
-The file stream_full.dat is the real IP trace from the main gateway at our campus. This dataset contains 10M items totally and  around 0.1M distinct items. 
+The file stream.dat is the real IP trace from the main gateway at our campus. This small dataset contains 1M items totally and 193,894 distinct items.
 
 
 
