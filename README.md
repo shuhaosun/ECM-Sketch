@@ -9,5 +9,4 @@ The file stream_full.dat is the real IP trace from the main gateway at our campu
 Suppose you've already cloned the respository and start from the `ECM-Sketch` directory.
 You just need:
 > $ make
-
-> $ ./main
+ $ ./main
