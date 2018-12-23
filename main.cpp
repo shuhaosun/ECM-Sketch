@@ -14,7 +14,7 @@
 
 using namespace std;
 
-const char * filename_FlowTraffic = "stream_full.dat";
+const char * filename_FlowTraffic = "stream.dat";
 
 
 char insert[N_INSERT + N_INSERT / 5][200];
