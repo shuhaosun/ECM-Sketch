@@ -1,2 +1,2 @@
 # ECM-Sketch
-Implementation of ECM-sketch
+Sketch-based Querying of Distributed Sliding-Window Data Streams VLDB 2012
